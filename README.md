@@ -38,7 +38,7 @@
 ---
 
 ## 💼 Open to Work
-I am actively seeking part-time and remote QA opportunities | Manual Testing
+I am actively seeking part-time remote QA opportunities | Manual Testing
 
 ---
 
