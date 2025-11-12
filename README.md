@@ -37,6 +37,11 @@
 
 ---
 
+## 💼 Open to Work
+I am actively seeking part-time and remote QA opportunities | Manual Testing
+
+---
+
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/muhammad-zaighum-ab65b6129/
 - Email: zaighum1995@gmail.com
