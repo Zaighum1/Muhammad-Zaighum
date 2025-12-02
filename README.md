@@ -26,7 +26,8 @@
 - Basic Automation Testing (Cypress)  
 - Jira for test management  
 - Writing Test Scripts  
-- Security Testing (ZAP)  
+- Security Testing (ZAP)
+- Stress Testing (JMeter)
 
 ---
 
